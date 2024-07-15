@@ -1,0 +1,42 @@
+[
+  {
+    "name": "iPhone",
+    "price": 154,
+    "feature": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Watch10",
+    "price": 304,
+    "company": "Apple"
+  },
+  {
+    "name": "Pavilion 15",
+    "price": 450,
+    "feature": true,
+    "company": "HP"
+  },
+  {
+    "name": "S24 Ultra",
+    "price": 400,
+    "company": "Samsung"
+  },
+  {
+    "name": "Office",
+    "price": 500,
+    "feature": true,
+    "company": "Microsoft"
+  },
+  {
+    "name": "Inspiron 15",
+    "price": 350,
+    "feature": false,
+    "company": "Dell"
+  },
+  {
+    "name": "Redmi Note 10",
+    "price": 100,
+    "feature": false,
+    "company": "MI"
+  }
+]
